@@ -1,0 +1,6 @@
+path: /content/bone_fracture_data/dataset
+train: train/images
+val: val/images
+
+nc: 1
+names: ['fracture']
